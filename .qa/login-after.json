@@ -1,0 +1,5113 @@
+{
+  "results": {
+    "desktop": {
+      "url": "http://127.0.0.1:3001/login",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "scrollWidth": 1440,
+      "authCardHTML": "<section class=\"auth-card\" aria-labelledby=\"auth-title\"><p class=\"eyebrow\">VAVI OWNER</p><h1 id=\"auth-title\">Welcome back.</h1><p class=\"muted\">Sign in to view your project enquiries.</p><form class=\"form-stack\" aria-busy=\"false\"><fieldset class=\"form-stack\"><div class=\"field\"><label for=\"email\">Email address</label><input id=\"email\" type=\"email\" autocomplete=\"username\" placeholder=\"you@company.com\" maxlength=\"254\" required=\"\" name=\"email\" style=\"\"></div><div class=\"field\"><label for=\"password\">Password</label><div class=\"password-field\"><input id=\"password\" type=\"password\" autocomplete=\"current-password\" required=\"\" maxlength=\"128\" name=\"password\" style=\"\"><button type=\"button\" aria-label=\"Show password\" aria-pressed=\"false\">Show</button></div></div><a class=\"text-link\" href=\"/forgot-password\">Forgot your password?</a><button class=\"button\" type=\"submit\">Sign in to your workspace</button></fieldset><p class=\"muted\">Access is limited to approved VAVI team accounts.</p></form></section>",
+      "card": {
+        "tag": "SECTION",
+        "className": "auth-card",
+        "id": "",
+        "text": null,
+        "bounds": {
+          "x": 834,
+          "y": 158.53125,
+          "width": 420,
+          "height": 582.9375
+        },
+        "relativeBounds": {
+          "x": 0,
+          "y": 0,
+          "width": 420,
+          "height": 582.9375
+        },
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(28, 26, 26)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(28, 26, 26)",
+          "borderWidth": "0px",
+          "borderRadius": "0px",
+          "padding": "64px 0px",
+          "margin": "0px",
+          "width": "420px",
+          "maxWidth": "420px",
+          "height": "582.938px",
+          "minHeight": "auto",
+          "gap": "normal"
+        }
+      },
+      "descendants": [
+        {
+          "tag": "P",
+          "className": "eyebrow",
+          "id": "",
+          "text": "VAVI OWNER",
+          "bounds": {
+            "x": 834,
+            "y": 222.53125,
+            "width": 420,
+            "height": 25.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 64,
+            "width": 420,
+            "height": 25.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "650",
+            "lineHeight": "25.2px",
+            "letterSpacing": "1.68px",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px 0px 16px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "25.1875px",
+            "minHeight": "0px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "H1",
+          "className": "",
+          "id": "auth-title",
+          "text": "Welcome back.",
+          "bounds": {
+            "x": 834,
+            "y": 263.71875,
+            "width": 420,
+            "height": 35
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 105.1875,
+            "width": 420,
+            "height": 35
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "650",
+            "lineHeight": "35px",
+            "letterSpacing": "-1.12px",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px 0px 12px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "35px",
+            "minHeight": "0px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "P",
+          "className": "muted",
+          "id": "",
+          "text": "Sign in to view your project enquiries.",
+          "bounds": {
+            "x": 834,
+            "y": 310.71875,
+            "width": 420,
+            "height": 25.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 152.1875,
+            "width": 420,
+            "height": 25.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "25.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px 0px 16px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "25.1875px",
+            "minHeight": "0px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "FORM",
+          "className": "form-stack",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 834,
+            "y": 363.90625,
+            "width": 420,
+            "height": 313.5625
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 205.375,
+            "width": 420,
+            "height": 313.5625
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "22.4px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "28px 0px 0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "313.562px",
+            "minHeight": "0px",
+            "gap": "20px"
+          }
+        },
+        {
+          "tag": "FIELDSET",
+          "className": "form-stack",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 834,
+            "y": 363.90625,
+            "width": 420,
+            "height": 272.765625
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 205.375,
+            "width": 420,
+            "height": 272.765625
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "22.4px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "272.766px",
+            "minHeight": "auto",
+            "gap": "20px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "className": "field",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 834,
+            "y": 363.90625,
+            "width": 420,
+            "height": 73.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 205.375,
+            "width": 420,
+            "height": 73.1875
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "73.1875px",
+            "minHeight": "auto",
+            "gap": "6px"
+          }
+        },
+        {
+          "tag": "LABEL",
+          "className": "",
+          "id": "",
+          "text": "Email address",
+          "bounds": {
+            "x": 834,
+            "y": 363.90625,
+            "width": 420,
+            "height": 19.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 205.375,
+            "width": 420,
+            "height": 19.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "19.1875px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "INPUT",
+          "className": "",
+          "id": "email",
+          "text": "",
+          "bounds": {
+            "x": 834,
+            "y": 389.09375,
+            "width": 420,
+            "height": 48
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 230.5625,
+            "width": 420,
+            "height": 48
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "450",
+            "lineHeight": "20.8px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgb(250, 248, 244)",
+            "borderColor": "rgba(28, 26, 26, 0.32)",
+            "borderWidth": "1px",
+            "borderRadius": "2px",
+            "padding": "10px 12px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "48px",
+            "minHeight": "48px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "DIV",
+          "className": "field",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 834,
+            "y": 457.09375,
+            "width": 420,
+            "height": 73.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 298.5625,
+            "width": 420,
+            "height": 73.1875
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "73.1875px",
+            "minHeight": "auto",
+            "gap": "6px"
+          }
+        },
+        {
+          "tag": "LABEL",
+          "className": "",
+          "id": "",
+          "text": "Password",
+          "bounds": {
+            "x": 834,
+            "y": 457.09375,
+            "width": 420,
+            "height": 19.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 298.5625,
+            "width": 420,
+            "height": 19.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "19.1875px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "DIV",
+          "className": "password-field",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 834,
+            "y": 482.28125,
+            "width": 420,
+            "height": 48
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 323.75,
+            "width": 420,
+            "height": 48
+          },
+          "styles": {
+            "display": "block",
+            "position": "relative",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "48px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "INPUT",
+          "className": "",
+          "id": "password",
+          "text": "",
+          "bounds": {
+            "x": 834,
+            "y": 482.28125,
+            "width": 420,
+            "height": 48
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 323.75,
+            "width": 420,
+            "height": 48
+          },
+          "styles": {
+            "display": "inline-block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "450",
+            "lineHeight": "20.8px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgb(250, 248, 244)",
+            "borderColor": "rgba(28, 26, 26, 0.32)",
+            "borderWidth": "1px",
+            "borderRadius": "2px",
+            "padding": "10px 64px 10px 12px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "48px",
+            "minHeight": "48px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "className": "",
+          "id": "",
+          "text": "Show",
+          "bounds": {
+            "x": 1193,
+            "y": 483.28125,
+            "width": 60,
+            "height": 46
+          },
+          "relativeBounds": {
+            "x": 359,
+            "y": 324.75,
+            "width": 60,
+            "height": 46
+          },
+          "styles": {
+            "display": "flex",
+            "position": "absolute",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "4px 8px",
+            "margin": "0px",
+            "width": "60px",
+            "maxWidth": "none",
+            "height": "46px",
+            "minHeight": "46px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "A",
+          "className": "text-link",
+          "id": "",
+          "text": "Forgot your password?",
+          "bounds": {
+            "x": 834,
+            "y": 550.28125,
+            "width": 420,
+            "height": 22.390625
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 391.75,
+            "width": 420,
+            "height": 22.390625
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "22.4px",
+            "letterSpacing": "normal",
+            "color": "rgb(48, 60, 50)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(48, 60, 50)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "22.3906px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "className": "button",
+          "id": "",
+          "text": "Sign in to your workspace",
+          "bounds": {
+            "x": 834,
+            "y": 592.671875,
+            "width": 420,
+            "height": 44
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 434.140625,
+            "width": 420,
+            "height": 44
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "lineHeight": "19.5px",
+            "letterSpacing": "normal",
+            "color": "rgb(250, 248, 244)",
+            "backgroundColor": "rgb(48, 60, 50)",
+            "borderColor": "rgb(48, 60, 50)",
+            "borderWidth": "1px",
+            "borderRadius": "2px",
+            "padding": "10px 16px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "44px",
+            "minHeight": "44px",
+            "gap": "10px"
+          }
+        },
+        {
+          "tag": "P",
+          "className": "muted",
+          "id": "",
+          "text": "Access is limited to approved VAVI team accounts.",
+          "bounds": {
+            "x": 834,
+            "y": 656.671875,
+            "width": 420,
+            "height": 20.796875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 498.140625,
+            "width": 420,
+            "height": 20.796875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "20.8px",
+            "letterSpacing": "normal",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "20.7969px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        }
+      ],
+      "panel": {
+        "tag": "ASIDE",
+        "className": "auth-panel",
+        "id": "",
+        "text": null,
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 648,
+          "height": 900
+        },
+        "relativeBounds": {
+          "x": -834,
+          "y": -158.53125,
+          "width": 648,
+          "height": 900
+        },
+        "styles": {
+          "display": "flex",
+          "position": "relative",
+          "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(234, 228, 218)",
+          "backgroundColor": "rgb(48, 60, 50)",
+          "borderColor": "rgb(234, 228, 218)",
+          "borderWidth": "0px",
+          "borderRadius": "0px",
+          "padding": "48px",
+          "margin": "0px",
+          "width": "648px",
+          "maxWidth": "none",
+          "height": "900px",
+          "minHeight": "auto",
+          "gap": "normal"
+        }
+      },
+      "logo": null,
+      "image": {
+        "display": "block",
+        "objectFit": "cover",
+        "objectPosition": "50% 24%",
+        "width": 648,
+        "height": 900,
+        "naturalWidth": 648,
+        "naturalHeight": 972,
+        "complete": true,
+        "currentSrc": "http://127.0.0.1:3001/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogin-ivory-interior.24wzmj6mr2rkt.webp&w=750&q=75"
+      },
+      "submitVisible": true,
+      "imageRequests": [
+        "http://127.0.0.1:3001/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogin-ivory-interior.24wzmj6mr2rkt.webp&w=750&q=75"
+      ]
+    },
+    "desktop-1024": {
+      "url": "http://127.0.0.1:3001/login",
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "scrollWidth": 1024,
+      "authCardHTML": "<section class=\"auth-card\" aria-labelledby=\"auth-title\"><p class=\"eyebrow\">VAVI OWNER</p><h1 id=\"auth-title\">Welcome back.</h1><p class=\"muted\">Sign in to view your project enquiries.</p><form class=\"form-stack\" aria-busy=\"false\"><fieldset class=\"form-stack\"><div class=\"field\"><label for=\"email\">Email address</label><input id=\"email\" type=\"email\" autocomplete=\"username\" placeholder=\"you@company.com\" maxlength=\"254\" required=\"\" name=\"email\" style=\"\"></div><div class=\"field\"><label for=\"password\">Password</label><div class=\"password-field\"><input id=\"password\" type=\"password\" autocomplete=\"current-password\" required=\"\" maxlength=\"128\" name=\"password\" style=\"\"><button type=\"button\" aria-label=\"Show password\" aria-pressed=\"false\">Show</button></div></div><a class=\"text-link\" href=\"/forgot-password\">Forgot your password?</a><button class=\"button\" type=\"submit\">Sign in to your workspace</button></fieldset><p class=\"muted\">Access is limited to approved VAVI team accounts.</p></form></section>",
+      "card": {
+        "tag": "SECTION",
+        "className": "auth-card",
+        "id": "",
+        "text": null,
+        "bounds": {
+          "x": 532.390625,
+          "y": 92.53125,
+          "width": 420,
+          "height": 582.9375
+        },
+        "relativeBounds": {
+          "x": 0,
+          "y": 0,
+          "width": 420,
+          "height": 582.9375
+        },
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(28, 26, 26)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(28, 26, 26)",
+          "borderWidth": "0px",
+          "borderRadius": "0px",
+          "padding": "64px 0px",
+          "margin": "0px",
+          "width": "420px",
+          "maxWidth": "420px",
+          "height": "582.938px",
+          "minHeight": "auto",
+          "gap": "normal"
+        }
+      },
+      "descendants": [
+        {
+          "tag": "P",
+          "className": "eyebrow",
+          "id": "",
+          "text": "VAVI OWNER",
+          "bounds": {
+            "x": 532.390625,
+            "y": 156.53125,
+            "width": 420,
+            "height": 25.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 64,
+            "width": 420,
+            "height": 25.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "650",
+            "lineHeight": "25.2px",
+            "letterSpacing": "1.68px",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px 0px 16px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "25.1875px",
+            "minHeight": "0px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "H1",
+          "className": "",
+          "id": "auth-title",
+          "text": "Welcome back.",
+          "bounds": {
+            "x": 532.390625,
+            "y": 197.71875,
+            "width": 420,
+            "height": 35
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 105.1875,
+            "width": 420,
+            "height": 35
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "650",
+            "lineHeight": "35px",
+            "letterSpacing": "-1.12px",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px 0px 12px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "35px",
+            "minHeight": "0px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "P",
+          "className": "muted",
+          "id": "",
+          "text": "Sign in to view your project enquiries.",
+          "bounds": {
+            "x": 532.390625,
+            "y": 244.71875,
+            "width": 420,
+            "height": 25.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 152.1875,
+            "width": 420,
+            "height": 25.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "25.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px 0px 16px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "25.1875px",
+            "minHeight": "0px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "FORM",
+          "className": "form-stack",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 532.390625,
+            "y": 297.90625,
+            "width": 420,
+            "height": 313.5625
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 205.375,
+            "width": 420,
+            "height": 313.5625
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "22.4px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "28px 0px 0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "313.562px",
+            "minHeight": "0px",
+            "gap": "20px"
+          }
+        },
+        {
+          "tag": "FIELDSET",
+          "className": "form-stack",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 532.390625,
+            "y": 297.90625,
+            "width": 420,
+            "height": 272.765625
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 205.375,
+            "width": 420,
+            "height": 272.765625
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "22.4px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "272.766px",
+            "minHeight": "auto",
+            "gap": "20px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "className": "field",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 532.390625,
+            "y": 297.90625,
+            "width": 420,
+            "height": 73.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 205.375,
+            "width": 420,
+            "height": 73.1875
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "73.1875px",
+            "minHeight": "auto",
+            "gap": "6px"
+          }
+        },
+        {
+          "tag": "LABEL",
+          "className": "",
+          "id": "",
+          "text": "Email address",
+          "bounds": {
+            "x": 532.390625,
+            "y": 297.90625,
+            "width": 420,
+            "height": 19.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 205.375,
+            "width": 420,
+            "height": 19.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "19.1875px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "INPUT",
+          "className": "",
+          "id": "email",
+          "text": "",
+          "bounds": {
+            "x": 532.390625,
+            "y": 323.09375,
+            "width": 420,
+            "height": 48
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 230.5625,
+            "width": 420,
+            "height": 48
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "450",
+            "lineHeight": "20.8px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgb(250, 248, 244)",
+            "borderColor": "rgba(28, 26, 26, 0.32)",
+            "borderWidth": "1px",
+            "borderRadius": "2px",
+            "padding": "10px 12px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "48px",
+            "minHeight": "48px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "DIV",
+          "className": "field",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 532.390625,
+            "y": 391.09375,
+            "width": 420,
+            "height": 73.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 298.5625,
+            "width": 420,
+            "height": 73.1875
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "73.1875px",
+            "minHeight": "auto",
+            "gap": "6px"
+          }
+        },
+        {
+          "tag": "LABEL",
+          "className": "",
+          "id": "",
+          "text": "Password",
+          "bounds": {
+            "x": 532.390625,
+            "y": 391.09375,
+            "width": 420,
+            "height": 19.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 298.5625,
+            "width": 420,
+            "height": 19.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "19.1875px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "DIV",
+          "className": "password-field",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 532.390625,
+            "y": 416.28125,
+            "width": 420,
+            "height": 48
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 323.75,
+            "width": 420,
+            "height": 48
+          },
+          "styles": {
+            "display": "block",
+            "position": "relative",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "48px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "INPUT",
+          "className": "",
+          "id": "password",
+          "text": "",
+          "bounds": {
+            "x": 532.390625,
+            "y": 416.28125,
+            "width": 420,
+            "height": 48
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 323.75,
+            "width": 420,
+            "height": 48
+          },
+          "styles": {
+            "display": "inline-block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "450",
+            "lineHeight": "20.8px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgb(250, 248, 244)",
+            "borderColor": "rgba(28, 26, 26, 0.32)",
+            "borderWidth": "1px",
+            "borderRadius": "2px",
+            "padding": "10px 64px 10px 12px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "48px",
+            "minHeight": "48px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "className": "",
+          "id": "",
+          "text": "Show",
+          "bounds": {
+            "x": 891.390625,
+            "y": 417.28125,
+            "width": 60,
+            "height": 46
+          },
+          "relativeBounds": {
+            "x": 359,
+            "y": 324.75,
+            "width": 60,
+            "height": 46
+          },
+          "styles": {
+            "display": "flex",
+            "position": "absolute",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "4px 8px",
+            "margin": "0px",
+            "width": "60px",
+            "maxWidth": "none",
+            "height": "46px",
+            "minHeight": "46px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "A",
+          "className": "text-link",
+          "id": "",
+          "text": "Forgot your password?",
+          "bounds": {
+            "x": 532.390625,
+            "y": 484.28125,
+            "width": 420,
+            "height": 22.390625
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 391.75,
+            "width": 420,
+            "height": 22.390625
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "22.4px",
+            "letterSpacing": "normal",
+            "color": "rgb(48, 60, 50)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(48, 60, 50)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "22.3906px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "className": "button",
+          "id": "",
+          "text": "Sign in to your workspace",
+          "bounds": {
+            "x": 532.390625,
+            "y": 526.671875,
+            "width": 420,
+            "height": 44
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 434.140625,
+            "width": 420,
+            "height": 44
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "lineHeight": "19.5px",
+            "letterSpacing": "normal",
+            "color": "rgb(250, 248, 244)",
+            "backgroundColor": "rgb(48, 60, 50)",
+            "borderColor": "rgb(48, 60, 50)",
+            "borderWidth": "1px",
+            "borderRadius": "2px",
+            "padding": "10px 16px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "44px",
+            "minHeight": "44px",
+            "gap": "10px"
+          }
+        },
+        {
+          "tag": "P",
+          "className": "muted",
+          "id": "",
+          "text": "Access is limited to approved VAVI team accounts.",
+          "bounds": {
+            "x": 532.390625,
+            "y": 590.671875,
+            "width": 420,
+            "height": 20.796875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 498.140625,
+            "width": 420,
+            "height": 20.796875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "20.8px",
+            "letterSpacing": "normal",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "20.7969px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        }
+      ],
+      "panel": {
+        "tag": "ASIDE",
+        "className": "auth-panel",
+        "id": "",
+        "text": null,
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 460.796875,
+          "height": 768
+        },
+        "relativeBounds": {
+          "x": -532.390625,
+          "y": -92.53125,
+          "width": 460.796875,
+          "height": 768
+        },
+        "styles": {
+          "display": "flex",
+          "position": "relative",
+          "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(234, 228, 218)",
+          "backgroundColor": "rgb(48, 60, 50)",
+          "borderColor": "rgb(234, 228, 218)",
+          "borderWidth": "0px",
+          "borderRadius": "0px",
+          "padding": "36px",
+          "margin": "0px",
+          "width": "460.797px",
+          "maxWidth": "none",
+          "height": "768px",
+          "minHeight": "auto",
+          "gap": "normal"
+        }
+      },
+      "logo": null,
+      "image": {
+        "display": "block",
+        "objectFit": "cover",
+        "objectPosition": "50% 24%",
+        "width": 460.796875,
+        "height": 768,
+        "naturalWidth": 512,
+        "naturalHeight": 768,
+        "complete": true,
+        "currentSrc": "http://127.0.0.1:3001/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogin-ivory-interior.24wzmj6mr2rkt.webp&w=640&q=75"
+      },
+      "submitVisible": true,
+      "imageRequests": [
+        "http://127.0.0.1:3001/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogin-ivory-interior.24wzmj6mr2rkt.webp&w=640&q=75"
+      ]
+    },
+    "desktop-1920": {
+      "url": "http://127.0.0.1:3001/login",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "scrollWidth": 1920,
+      "authCardHTML": "<section class=\"auth-card\" aria-labelledby=\"auth-title\"><p class=\"eyebrow\">VAVI OWNER</p><h1 id=\"auth-title\">Welcome back.</h1><p class=\"muted\">Sign in to view your project enquiries.</p><form class=\"form-stack\" aria-busy=\"false\"><fieldset class=\"form-stack\"><div class=\"field\"><label for=\"email\">Email address</label><input id=\"email\" type=\"email\" autocomplete=\"username\" placeholder=\"you@company.com\" maxlength=\"254\" required=\"\" name=\"email\" style=\"\"></div><div class=\"field\"><label for=\"password\">Password</label><div class=\"password-field\"><input id=\"password\" type=\"password\" autocomplete=\"current-password\" required=\"\" maxlength=\"128\" name=\"password\" style=\"\"><button type=\"button\" aria-label=\"Show password\" aria-pressed=\"false\">Show</button></div></div><a class=\"text-link\" href=\"/forgot-password\">Forgot your password?</a><button class=\"button\" type=\"submit\">Sign in to your workspace</button></fieldset><p class=\"muted\">Access is limited to approved VAVI team accounts.</p></form></section>",
+      "card": {
+        "tag": "SECTION",
+        "className": "auth-card",
+        "id": "",
+        "text": null,
+        "bounds": {
+          "x": 1182,
+          "y": 248.53125,
+          "width": 420,
+          "height": 582.9375
+        },
+        "relativeBounds": {
+          "x": 0,
+          "y": 0,
+          "width": 420,
+          "height": 582.9375
+        },
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(28, 26, 26)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(28, 26, 26)",
+          "borderWidth": "0px",
+          "borderRadius": "0px",
+          "padding": "64px 0px",
+          "margin": "0px",
+          "width": "420px",
+          "maxWidth": "420px",
+          "height": "582.938px",
+          "minHeight": "auto",
+          "gap": "normal"
+        }
+      },
+      "descendants": [
+        {
+          "tag": "P",
+          "className": "eyebrow",
+          "id": "",
+          "text": "VAVI OWNER",
+          "bounds": {
+            "x": 1182,
+            "y": 312.53125,
+            "width": 420,
+            "height": 25.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 64,
+            "width": 420,
+            "height": 25.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "650",
+            "lineHeight": "25.2px",
+            "letterSpacing": "1.68px",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px 0px 16px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "25.1875px",
+            "minHeight": "0px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "H1",
+          "className": "",
+          "id": "auth-title",
+          "text": "Welcome back.",
+          "bounds": {
+            "x": 1182,
+            "y": 353.71875,
+            "width": 420,
+            "height": 35
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 105.1875,
+            "width": 420,
+            "height": 35
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "650",
+            "lineHeight": "35px",
+            "letterSpacing": "-1.12px",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px 0px 12px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "35px",
+            "minHeight": "0px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "P",
+          "className": "muted",
+          "id": "",
+          "text": "Sign in to view your project enquiries.",
+          "bounds": {
+            "x": 1182,
+            "y": 400.71875,
+            "width": 420,
+            "height": 25.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 152.1875,
+            "width": 420,
+            "height": 25.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "25.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px 0px 16px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "25.1875px",
+            "minHeight": "0px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "FORM",
+          "className": "form-stack",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 1182,
+            "y": 453.90625,
+            "width": 420,
+            "height": 313.5625
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 205.375,
+            "width": 420,
+            "height": 313.5625
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "22.4px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "28px 0px 0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "313.562px",
+            "minHeight": "0px",
+            "gap": "20px"
+          }
+        },
+        {
+          "tag": "FIELDSET",
+          "className": "form-stack",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 1182,
+            "y": 453.90625,
+            "width": 420,
+            "height": 272.765625
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 205.375,
+            "width": 420,
+            "height": 272.765625
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "22.4px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "272.766px",
+            "minHeight": "auto",
+            "gap": "20px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "className": "field",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 1182,
+            "y": 453.90625,
+            "width": 420,
+            "height": 73.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 205.375,
+            "width": 420,
+            "height": 73.1875
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "73.1875px",
+            "minHeight": "auto",
+            "gap": "6px"
+          }
+        },
+        {
+          "tag": "LABEL",
+          "className": "",
+          "id": "",
+          "text": "Email address",
+          "bounds": {
+            "x": 1182,
+            "y": 453.90625,
+            "width": 420,
+            "height": 19.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 205.375,
+            "width": 420,
+            "height": 19.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "19.1875px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "INPUT",
+          "className": "",
+          "id": "email",
+          "text": "",
+          "bounds": {
+            "x": 1182,
+            "y": 479.09375,
+            "width": 420,
+            "height": 48
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 230.5625,
+            "width": 420,
+            "height": 48
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "450",
+            "lineHeight": "20.8px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgb(250, 248, 244)",
+            "borderColor": "rgba(28, 26, 26, 0.32)",
+            "borderWidth": "1px",
+            "borderRadius": "2px",
+            "padding": "10px 12px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "48px",
+            "minHeight": "48px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "DIV",
+          "className": "field",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 1182,
+            "y": 547.09375,
+            "width": 420,
+            "height": 73.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 298.5625,
+            "width": 420,
+            "height": 73.1875
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "73.1875px",
+            "minHeight": "auto",
+            "gap": "6px"
+          }
+        },
+        {
+          "tag": "LABEL",
+          "className": "",
+          "id": "",
+          "text": "Password",
+          "bounds": {
+            "x": 1182,
+            "y": 547.09375,
+            "width": 420,
+            "height": 19.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 298.5625,
+            "width": 420,
+            "height": 19.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "19.1875px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "DIV",
+          "className": "password-field",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 1182,
+            "y": 572.28125,
+            "width": 420,
+            "height": 48
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 323.75,
+            "width": 420,
+            "height": 48
+          },
+          "styles": {
+            "display": "block",
+            "position": "relative",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "48px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "INPUT",
+          "className": "",
+          "id": "password",
+          "text": "",
+          "bounds": {
+            "x": 1182,
+            "y": 572.28125,
+            "width": 420,
+            "height": 48
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 323.75,
+            "width": 420,
+            "height": 48
+          },
+          "styles": {
+            "display": "inline-block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "450",
+            "lineHeight": "20.8px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgb(250, 248, 244)",
+            "borderColor": "rgba(28, 26, 26, 0.32)",
+            "borderWidth": "1px",
+            "borderRadius": "2px",
+            "padding": "10px 64px 10px 12px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "48px",
+            "minHeight": "48px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "className": "",
+          "id": "",
+          "text": "Show",
+          "bounds": {
+            "x": 1541,
+            "y": 573.28125,
+            "width": 60,
+            "height": 46
+          },
+          "relativeBounds": {
+            "x": 359,
+            "y": 324.75,
+            "width": 60,
+            "height": 46
+          },
+          "styles": {
+            "display": "flex",
+            "position": "absolute",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "4px 8px",
+            "margin": "0px",
+            "width": "60px",
+            "maxWidth": "none",
+            "height": "46px",
+            "minHeight": "46px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "A",
+          "className": "text-link",
+          "id": "",
+          "text": "Forgot your password?",
+          "bounds": {
+            "x": 1182,
+            "y": 640.28125,
+            "width": 420,
+            "height": 22.390625
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 391.75,
+            "width": 420,
+            "height": 22.390625
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "22.4px",
+            "letterSpacing": "normal",
+            "color": "rgb(48, 60, 50)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(48, 60, 50)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "22.3906px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "className": "button",
+          "id": "",
+          "text": "Sign in to your workspace",
+          "bounds": {
+            "x": 1182,
+            "y": 682.671875,
+            "width": 420,
+            "height": 44
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 434.140625,
+            "width": 420,
+            "height": 44
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "lineHeight": "19.5px",
+            "letterSpacing": "normal",
+            "color": "rgb(250, 248, 244)",
+            "backgroundColor": "rgb(48, 60, 50)",
+            "borderColor": "rgb(48, 60, 50)",
+            "borderWidth": "1px",
+            "borderRadius": "2px",
+            "padding": "10px 16px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "44px",
+            "minHeight": "44px",
+            "gap": "10px"
+          }
+        },
+        {
+          "tag": "P",
+          "className": "muted",
+          "id": "",
+          "text": "Access is limited to approved VAVI team accounts.",
+          "bounds": {
+            "x": 1182,
+            "y": 746.671875,
+            "width": 420,
+            "height": 20.796875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 498.140625,
+            "width": 420,
+            "height": 20.796875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "20.8px",
+            "letterSpacing": "normal",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "20.7969px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        }
+      ],
+      "panel": {
+        "tag": "ASIDE",
+        "className": "auth-panel",
+        "id": "",
+        "text": null,
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 864,
+          "height": 1080
+        },
+        "relativeBounds": {
+          "x": -1182,
+          "y": -248.53125,
+          "width": 864,
+          "height": 1080
+        },
+        "styles": {
+          "display": "flex",
+          "position": "relative",
+          "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(234, 228, 218)",
+          "backgroundColor": "rgb(48, 60, 50)",
+          "borderColor": "rgb(234, 228, 218)",
+          "borderWidth": "0px",
+          "borderRadius": "0px",
+          "padding": "48px",
+          "margin": "0px",
+          "width": "864px",
+          "maxWidth": "none",
+          "height": "1080px",
+          "minHeight": "auto",
+          "gap": "normal"
+        }
+      },
+      "logo": null,
+      "image": {
+        "display": "block",
+        "objectFit": "cover",
+        "objectPosition": "50% 24%",
+        "width": 864,
+        "height": 1080,
+        "naturalWidth": 819,
+        "naturalHeight": 1228,
+        "complete": true,
+        "currentSrc": "http://127.0.0.1:3001/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogin-ivory-interior.24wzmj6mr2rkt.webp&w=1080&q=75"
+      },
+      "submitVisible": true,
+      "imageRequests": [
+        "http://127.0.0.1:3001/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogin-ivory-interior.24wzmj6mr2rkt.webp&w=1080&q=75"
+      ]
+    },
+    "tablet-768": {
+      "url": "http://127.0.0.1:3001/login",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "scrollWidth": 768,
+      "authCardHTML": "<section class=\"auth-card\" aria-labelledby=\"auth-title\"><p class=\"eyebrow\">VAVI OWNER</p><h1 id=\"auth-title\">Welcome back.</h1><p class=\"muted\">Sign in to view your project enquiries.</p><form class=\"form-stack\" aria-busy=\"false\"><fieldset class=\"form-stack\"><div class=\"field\"><label for=\"email\">Email address</label><input id=\"email\" type=\"email\" autocomplete=\"username\" placeholder=\"you@company.com\" maxlength=\"254\" required=\"\" name=\"email\" style=\"\"></div><div class=\"field\"><label for=\"password\">Password</label><div class=\"password-field\"><input id=\"password\" type=\"password\" autocomplete=\"current-password\" required=\"\" maxlength=\"128\" name=\"password\" style=\"\"><button type=\"button\" aria-label=\"Show password\" aria-pressed=\"false\">Show</button></div></div><a class=\"text-link\" href=\"/forgot-password\">Forgot your password?</a><button class=\"button\" type=\"submit\">Sign in to your workspace</button></fieldset><p class=\"muted\">Access is limited to approved VAVI team accounts.</p></form></section>",
+      "card": {
+        "tag": "SECTION",
+        "className": "auth-card",
+        "id": "",
+        "text": null,
+        "bounds": {
+          "x": 385.59375,
+          "y": 220.53125,
+          "width": 342.40625,
+          "height": 582.9375
+        },
+        "relativeBounds": {
+          "x": 0,
+          "y": 0,
+          "width": 342.40625,
+          "height": 582.9375
+        },
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(28, 26, 26)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(28, 26, 26)",
+          "borderWidth": "0px",
+          "borderRadius": "0px",
+          "padding": "64px 0px",
+          "margin": "0px",
+          "width": "342.406px",
+          "maxWidth": "420px",
+          "height": "582.938px",
+          "minHeight": "auto",
+          "gap": "normal"
+        }
+      },
+      "descendants": [
+        {
+          "tag": "P",
+          "className": "eyebrow",
+          "id": "",
+          "text": "VAVI OWNER",
+          "bounds": {
+            "x": 385.59375,
+            "y": 284.53125,
+            "width": 342.40625,
+            "height": 25.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 64,
+            "width": 342.40625,
+            "height": 25.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "650",
+            "lineHeight": "25.2px",
+            "letterSpacing": "1.68px",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px 0px 16px",
+            "width": "342.406px",
+            "maxWidth": "none",
+            "height": "25.1875px",
+            "minHeight": "0px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "H1",
+          "className": "",
+          "id": "auth-title",
+          "text": "Welcome back.",
+          "bounds": {
+            "x": 385.59375,
+            "y": 325.71875,
+            "width": 342.40625,
+            "height": 35
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 105.1875,
+            "width": 342.40625,
+            "height": 35
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "650",
+            "lineHeight": "35px",
+            "letterSpacing": "-1.12px",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px 0px 12px",
+            "width": "342.406px",
+            "maxWidth": "none",
+            "height": "35px",
+            "minHeight": "0px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "P",
+          "className": "muted",
+          "id": "",
+          "text": "Sign in to view your project enquiries.",
+          "bounds": {
+            "x": 385.59375,
+            "y": 372.71875,
+            "width": 342.40625,
+            "height": 25.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 152.1875,
+            "width": 342.40625,
+            "height": 25.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "25.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px 0px 16px",
+            "width": "342.406px",
+            "maxWidth": "none",
+            "height": "25.1875px",
+            "minHeight": "0px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "FORM",
+          "className": "form-stack",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 385.59375,
+            "y": 425.90625,
+            "width": 342.40625,
+            "height": 313.5625
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 205.375,
+            "width": 342.40625,
+            "height": 313.5625
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "22.4px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "28px 0px 0px",
+            "width": "342.406px",
+            "maxWidth": "none",
+            "height": "313.562px",
+            "minHeight": "0px",
+            "gap": "20px"
+          }
+        },
+        {
+          "tag": "FIELDSET",
+          "className": "form-stack",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 385.59375,
+            "y": 425.90625,
+            "width": 342.40625,
+            "height": 272.765625
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 205.375,
+            "width": 342.40625,
+            "height": 272.765625
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "22.4px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "342.406px",
+            "maxWidth": "none",
+            "height": "272.766px",
+            "minHeight": "auto",
+            "gap": "20px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "className": "field",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 385.59375,
+            "y": 425.90625,
+            "width": 342.40625,
+            "height": 73.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 205.375,
+            "width": 342.40625,
+            "height": 73.1875
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "342.406px",
+            "maxWidth": "none",
+            "height": "73.1875px",
+            "minHeight": "auto",
+            "gap": "6px"
+          }
+        },
+        {
+          "tag": "LABEL",
+          "className": "",
+          "id": "",
+          "text": "Email address",
+          "bounds": {
+            "x": 385.59375,
+            "y": 425.90625,
+            "width": 342.40625,
+            "height": 19.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 205.375,
+            "width": 342.40625,
+            "height": 19.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "342.406px",
+            "maxWidth": "none",
+            "height": "19.1875px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "INPUT",
+          "className": "",
+          "id": "email",
+          "text": "",
+          "bounds": {
+            "x": 385.59375,
+            "y": 451.09375,
+            "width": 342.40625,
+            "height": 48
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 230.5625,
+            "width": 342.40625,
+            "height": 48
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "450",
+            "lineHeight": "20.8px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgb(250, 248, 244)",
+            "borderColor": "rgba(28, 26, 26, 0.32)",
+            "borderWidth": "1px",
+            "borderRadius": "2px",
+            "padding": "10px 12px",
+            "margin": "0px",
+            "width": "342.406px",
+            "maxWidth": "none",
+            "height": "48px",
+            "minHeight": "48px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "DIV",
+          "className": "field",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 385.59375,
+            "y": 519.09375,
+            "width": 342.40625,
+            "height": 73.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 298.5625,
+            "width": 342.40625,
+            "height": 73.1875
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "342.406px",
+            "maxWidth": "none",
+            "height": "73.1875px",
+            "minHeight": "auto",
+            "gap": "6px"
+          }
+        },
+        {
+          "tag": "LABEL",
+          "className": "",
+          "id": "",
+          "text": "Password",
+          "bounds": {
+            "x": 385.59375,
+            "y": 519.09375,
+            "width": 342.40625,
+            "height": 19.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 298.5625,
+            "width": 342.40625,
+            "height": 19.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "342.406px",
+            "maxWidth": "none",
+            "height": "19.1875px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "DIV",
+          "className": "password-field",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 385.59375,
+            "y": 544.28125,
+            "width": 342.40625,
+            "height": 48
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 323.75,
+            "width": 342.40625,
+            "height": 48
+          },
+          "styles": {
+            "display": "block",
+            "position": "relative",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "342.406px",
+            "maxWidth": "none",
+            "height": "48px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "INPUT",
+          "className": "",
+          "id": "password",
+          "text": "",
+          "bounds": {
+            "x": 385.59375,
+            "y": 544.28125,
+            "width": 342.40625,
+            "height": 48
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 323.75,
+            "width": 342.40625,
+            "height": 48
+          },
+          "styles": {
+            "display": "inline-block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "450",
+            "lineHeight": "20.8px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgb(250, 248, 244)",
+            "borderColor": "rgba(28, 26, 26, 0.32)",
+            "borderWidth": "1px",
+            "borderRadius": "2px",
+            "padding": "10px 64px 10px 12px",
+            "margin": "0px",
+            "width": "342.406px",
+            "maxWidth": "none",
+            "height": "48px",
+            "minHeight": "48px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "className": "",
+          "id": "",
+          "text": "Show",
+          "bounds": {
+            "x": 667,
+            "y": 545.28125,
+            "width": 60,
+            "height": 46
+          },
+          "relativeBounds": {
+            "x": 281.40625,
+            "y": 324.75,
+            "width": 60,
+            "height": 46
+          },
+          "styles": {
+            "display": "flex",
+            "position": "absolute",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "4px 8px",
+            "margin": "0px",
+            "width": "60px",
+            "maxWidth": "none",
+            "height": "46px",
+            "minHeight": "46px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "A",
+          "className": "text-link",
+          "id": "",
+          "text": "Forgot your password?",
+          "bounds": {
+            "x": 385.59375,
+            "y": 612.28125,
+            "width": 342.40625,
+            "height": 22.390625
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 391.75,
+            "width": 342.40625,
+            "height": 22.390625
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "22.4px",
+            "letterSpacing": "normal",
+            "color": "rgb(48, 60, 50)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(48, 60, 50)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "342.406px",
+            "maxWidth": "none",
+            "height": "22.3906px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "className": "button",
+          "id": "",
+          "text": "Sign in to your workspace",
+          "bounds": {
+            "x": 385.59375,
+            "y": 654.671875,
+            "width": 342.40625,
+            "height": 44
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 434.140625,
+            "width": 342.40625,
+            "height": 44
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "lineHeight": "19.5px",
+            "letterSpacing": "normal",
+            "color": "rgb(250, 248, 244)",
+            "backgroundColor": "rgb(48, 60, 50)",
+            "borderColor": "rgb(48, 60, 50)",
+            "borderWidth": "1px",
+            "borderRadius": "2px",
+            "padding": "10px 16px",
+            "margin": "0px",
+            "width": "342.406px",
+            "maxWidth": "none",
+            "height": "44px",
+            "minHeight": "44px",
+            "gap": "10px"
+          }
+        },
+        {
+          "tag": "P",
+          "className": "muted",
+          "id": "",
+          "text": "Access is limited to approved VAVI team accounts.",
+          "bounds": {
+            "x": 385.59375,
+            "y": 718.671875,
+            "width": 342.40625,
+            "height": 20.796875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 498.140625,
+            "width": 342.40625,
+            "height": 20.796875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "20.8px",
+            "letterSpacing": "normal",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "342.406px",
+            "maxWidth": "none",
+            "height": "20.7969px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        }
+      ],
+      "panel": {
+        "tag": "ASIDE",
+        "className": "auth-panel",
+        "id": "",
+        "text": null,
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 345.59375,
+          "height": 1024
+        },
+        "relativeBounds": {
+          "x": -385.59375,
+          "y": -220.53125,
+          "width": 345.59375,
+          "height": 1024
+        },
+        "styles": {
+          "display": "flex",
+          "position": "relative",
+          "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(234, 228, 218)",
+          "backgroundColor": "rgb(48, 60, 50)",
+          "borderColor": "rgb(234, 228, 218)",
+          "borderWidth": "0px",
+          "borderRadius": "0px",
+          "padding": "36px",
+          "margin": "0px",
+          "width": "345.594px",
+          "maxWidth": "none",
+          "height": "1024px",
+          "minHeight": "auto",
+          "gap": "normal"
+        }
+      },
+      "logo": null,
+      "image": {
+        "display": "block",
+        "objectFit": "cover",
+        "objectPosition": "50% 24%",
+        "width": 345.59375,
+        "height": 1024,
+        "naturalWidth": 682,
+        "naturalHeight": 1024,
+        "complete": true,
+        "currentSrc": "http://127.0.0.1:3001/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogin-ivory-interior.24wzmj6mr2rkt.webp&w=750&q=75"
+      },
+      "submitVisible": true,
+      "imageRequests": [
+        "http://127.0.0.1:3001/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogin-ivory-interior.24wzmj6mr2rkt.webp&w=750&q=75"
+      ]
+    },
+    "mobile": {
+      "url": "http://127.0.0.1:3001/login",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "scrollWidth": 390,
+      "authCardHTML": "<section class=\"auth-card\" aria-labelledby=\"auth-title\"><p class=\"eyebrow\">VAVI OWNER</p><h1 id=\"auth-title\">Welcome back.</h1><p class=\"muted\">Sign in to view your project enquiries.</p><form class=\"form-stack\" aria-busy=\"false\"><fieldset class=\"form-stack\"><div class=\"field\"><label for=\"email\">Email address</label><input id=\"email\" type=\"email\" autocomplete=\"username\" placeholder=\"you@company.com\" maxlength=\"254\" required=\"\" name=\"email\" style=\"\"></div><div class=\"field\"><label for=\"password\">Password</label><div class=\"password-field\"><input id=\"password\" type=\"password\" autocomplete=\"current-password\" required=\"\" maxlength=\"128\" name=\"password\" style=\"\"><button type=\"button\" aria-label=\"Show password\" aria-pressed=\"false\">Show</button></div></div><a class=\"text-link\" href=\"/forgot-password\">Forgot your password?</a><button class=\"button\" type=\"submit\">Sign in to your workspace</button></fieldset><p class=\"muted\">Access is limited to approved VAVI team accounts.</p></form></section>",
+      "card": {
+        "tag": "SECTION",
+        "className": "auth-card",
+        "id": "",
+        "text": null,
+        "bounds": {
+          "x": 24,
+          "y": 174.53125,
+          "width": 342,
+          "height": 518.9375
+        },
+        "relativeBounds": {
+          "x": 0,
+          "y": 0,
+          "width": 342,
+          "height": 518.9375
+        },
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(28, 26, 26)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(28, 26, 26)",
+          "borderWidth": "0px",
+          "borderRadius": "0px",
+          "padding": "32px 0px",
+          "margin": "150.531px 24px",
+          "width": "342px",
+          "maxWidth": "420px",
+          "height": "518.938px",
+          "minHeight": "auto",
+          "gap": "normal"
+        }
+      },
+      "descendants": [
+        {
+          "tag": "P",
+          "className": "eyebrow",
+          "id": "",
+          "text": "VAVI OWNER",
+          "bounds": {
+            "x": 24,
+            "y": 206.53125,
+            "width": 342,
+            "height": 25.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 32,
+            "width": 342,
+            "height": 25.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "650",
+            "lineHeight": "25.2px",
+            "letterSpacing": "1.68px",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px 0px 16px",
+            "width": "342px",
+            "maxWidth": "none",
+            "height": "25.1875px",
+            "minHeight": "0px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "H1",
+          "className": "",
+          "id": "auth-title",
+          "text": "Welcome back.",
+          "bounds": {
+            "x": 24,
+            "y": 247.71875,
+            "width": 342,
+            "height": 35
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 73.1875,
+            "width": 342,
+            "height": 35
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "650",
+            "lineHeight": "35px",
+            "letterSpacing": "-1.12px",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px 0px 12px",
+            "width": "342px",
+            "maxWidth": "none",
+            "height": "35px",
+            "minHeight": "0px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "P",
+          "className": "muted",
+          "id": "",
+          "text": "Sign in to view your project enquiries.",
+          "bounds": {
+            "x": 24,
+            "y": 294.71875,
+            "width": 342,
+            "height": 25.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 120.1875,
+            "width": 342,
+            "height": 25.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "25.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px 0px 16px",
+            "width": "342px",
+            "maxWidth": "none",
+            "height": "25.1875px",
+            "minHeight": "0px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "FORM",
+          "className": "form-stack",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 24,
+            "y": 347.90625,
+            "width": 342,
+            "height": 313.5625
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 173.375,
+            "width": 342,
+            "height": 313.5625
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "22.4px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "28px 0px 0px",
+            "width": "342px",
+            "maxWidth": "none",
+            "height": "313.562px",
+            "minHeight": "0px",
+            "gap": "20px"
+          }
+        },
+        {
+          "tag": "FIELDSET",
+          "className": "form-stack",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 24,
+            "y": 347.90625,
+            "width": 342,
+            "height": 272.765625
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 173.375,
+            "width": 342,
+            "height": 272.765625
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "22.4px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "342px",
+            "maxWidth": "none",
+            "height": "272.766px",
+            "minHeight": "auto",
+            "gap": "20px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "className": "field",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 24,
+            "y": 347.90625,
+            "width": 342,
+            "height": 73.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 173.375,
+            "width": 342,
+            "height": 73.1875
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "342px",
+            "maxWidth": "none",
+            "height": "73.1875px",
+            "minHeight": "auto",
+            "gap": "6px"
+          }
+        },
+        {
+          "tag": "LABEL",
+          "className": "",
+          "id": "",
+          "text": "Email address",
+          "bounds": {
+            "x": 24,
+            "y": 347.90625,
+            "width": 342,
+            "height": 19.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 173.375,
+            "width": 342,
+            "height": 19.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "342px",
+            "maxWidth": "none",
+            "height": "19.1875px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "INPUT",
+          "className": "",
+          "id": "email",
+          "text": "",
+          "bounds": {
+            "x": 24,
+            "y": 373.09375,
+            "width": 342,
+            "height": 48
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 198.5625,
+            "width": 342,
+            "height": 48
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "lineHeight": "25.6px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgb(250, 248, 244)",
+            "borderColor": "rgba(28, 26, 26, 0.32)",
+            "borderWidth": "1px",
+            "borderRadius": "2px",
+            "padding": "10px 12px",
+            "margin": "0px",
+            "width": "342px",
+            "maxWidth": "none",
+            "height": "48px",
+            "minHeight": "48px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "DIV",
+          "className": "field",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 24,
+            "y": 441.09375,
+            "width": 342,
+            "height": 73.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 266.5625,
+            "width": 342,
+            "height": 73.1875
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "342px",
+            "maxWidth": "none",
+            "height": "73.1875px",
+            "minHeight": "auto",
+            "gap": "6px"
+          }
+        },
+        {
+          "tag": "LABEL",
+          "className": "",
+          "id": "",
+          "text": "Password",
+          "bounds": {
+            "x": 24,
+            "y": 441.09375,
+            "width": 342,
+            "height": 19.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 266.5625,
+            "width": 342,
+            "height": 19.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "342px",
+            "maxWidth": "none",
+            "height": "19.1875px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "DIV",
+          "className": "password-field",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 24,
+            "y": 466.28125,
+            "width": 342,
+            "height": 48
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 291.75,
+            "width": 342,
+            "height": 48
+          },
+          "styles": {
+            "display": "block",
+            "position": "relative",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "342px",
+            "maxWidth": "none",
+            "height": "48px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "INPUT",
+          "className": "",
+          "id": "password",
+          "text": "",
+          "bounds": {
+            "x": 24,
+            "y": 466.28125,
+            "width": 342,
+            "height": 48
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 291.75,
+            "width": 342,
+            "height": 48
+          },
+          "styles": {
+            "display": "inline-block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "lineHeight": "25.6px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgb(250, 248, 244)",
+            "borderColor": "rgba(28, 26, 26, 0.32)",
+            "borderWidth": "1px",
+            "borderRadius": "2px",
+            "padding": "10px 64px 10px 12px",
+            "margin": "0px",
+            "width": "342px",
+            "maxWidth": "none",
+            "height": "48px",
+            "minHeight": "48px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "className": "",
+          "id": "",
+          "text": "Show",
+          "bounds": {
+            "x": 305,
+            "y": 467.28125,
+            "width": 60,
+            "height": 46
+          },
+          "relativeBounds": {
+            "x": 281,
+            "y": 292.75,
+            "width": 60,
+            "height": 46
+          },
+          "styles": {
+            "display": "flex",
+            "position": "absolute",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "4px 8px",
+            "margin": "0px",
+            "width": "60px",
+            "maxWidth": "none",
+            "height": "46px",
+            "minHeight": "46px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "A",
+          "className": "text-link",
+          "id": "",
+          "text": "Forgot your password?",
+          "bounds": {
+            "x": 24,
+            "y": 534.28125,
+            "width": 342,
+            "height": 22.390625
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 359.75,
+            "width": 342,
+            "height": 22.390625
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "22.4px",
+            "letterSpacing": "normal",
+            "color": "rgb(48, 60, 50)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(48, 60, 50)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "342px",
+            "maxWidth": "none",
+            "height": "22.3906px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "className": "button",
+          "id": "",
+          "text": "Sign in to your workspace",
+          "bounds": {
+            "x": 24,
+            "y": 576.671875,
+            "width": 342,
+            "height": 44
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 402.140625,
+            "width": 342,
+            "height": 44
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "lineHeight": "19.5px",
+            "letterSpacing": "normal",
+            "color": "rgb(250, 248, 244)",
+            "backgroundColor": "rgb(48, 60, 50)",
+            "borderColor": "rgb(48, 60, 50)",
+            "borderWidth": "1px",
+            "borderRadius": "2px",
+            "padding": "10px 16px",
+            "margin": "0px",
+            "width": "342px",
+            "maxWidth": "none",
+            "height": "44px",
+            "minHeight": "44px",
+            "gap": "10px"
+          }
+        },
+        {
+          "tag": "P",
+          "className": "muted",
+          "id": "",
+          "text": "Access is limited to approved VAVI team accounts.",
+          "bounds": {
+            "x": 24,
+            "y": 640.671875,
+            "width": 342,
+            "height": 20.796875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 466.140625,
+            "width": 342,
+            "height": 20.796875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "20.8px",
+            "letterSpacing": "normal",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "342px",
+            "maxWidth": "none",
+            "height": "20.7969px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        }
+      ],
+      "panel": {
+        "tag": "ASIDE",
+        "className": "auth-panel",
+        "id": "",
+        "text": null,
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 24
+        },
+        "relativeBounds": {
+          "x": -24,
+          "y": -174.53125,
+          "width": 390,
+          "height": 24
+        },
+        "styles": {
+          "display": "flex",
+          "position": "relative",
+          "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(234, 228, 218)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(234, 228, 218)",
+          "borderWidth": "0px",
+          "borderRadius": "0px",
+          "padding": "24px 24px 0px",
+          "margin": "0px",
+          "width": "390px",
+          "maxWidth": "none",
+          "height": "24px",
+          "minHeight": "auto",
+          "gap": "normal"
+        }
+      },
+      "logo": null,
+      "image": {
+        "display": "none",
+        "objectFit": "cover",
+        "objectPosition": "50% 24%",
+        "width": 0,
+        "height": 0,
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "complete": false,
+        "currentSrc": ""
+      },
+      "submitVisible": true,
+      "imageRequests": []
+    },
+    "mobile-320": {
+      "url": "http://127.0.0.1:3001/login",
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "scrollWidth": 320,
+      "authCardHTML": "<section class=\"auth-card\" aria-labelledby=\"auth-title\"><p class=\"eyebrow\">VAVI OWNER</p><h1 id=\"auth-title\">Welcome back.</h1><p class=\"muted\">Sign in to view your project enquiries.</p><form class=\"form-stack\" aria-busy=\"false\"><fieldset class=\"form-stack\"><div class=\"field\"><label for=\"email\">Email address</label><input id=\"email\" type=\"email\" autocomplete=\"username\" placeholder=\"you@company.com\" maxlength=\"254\" required=\"\" name=\"email\" style=\"\"></div><div class=\"field\"><label for=\"password\">Password</label><div class=\"password-field\"><input id=\"password\" type=\"password\" autocomplete=\"current-password\" required=\"\" maxlength=\"128\" name=\"password\" style=\"\"><button type=\"button\" aria-label=\"Show password\" aria-pressed=\"false\">Show</button></div></div><a class=\"text-link\" href=\"/forgot-password\">Forgot your password?</a><button class=\"button\" type=\"submit\">Sign in to your workspace</button></fieldset><p class=\"muted\">Access is limited to approved VAVI team accounts.</p></form></section>",
+      "card": {
+        "tag": "SECTION",
+        "className": "auth-card",
+        "id": "",
+        "text": null,
+        "bounds": {
+          "x": 24,
+          "y": 164.140625,
+          "width": 272,
+          "height": 539.734375
+        },
+        "relativeBounds": {
+          "x": 0,
+          "y": 0,
+          "width": 272,
+          "height": 539.734375
+        },
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(28, 26, 26)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(28, 26, 26)",
+          "borderWidth": "0px",
+          "borderRadius": "0px",
+          "padding": "32px 0px",
+          "margin": "140.141px 24px 140.125px",
+          "width": "272px",
+          "maxWidth": "420px",
+          "height": "539.734px",
+          "minHeight": "auto",
+          "gap": "normal"
+        }
+      },
+      "descendants": [
+        {
+          "tag": "P",
+          "className": "eyebrow",
+          "id": "",
+          "text": "VAVI OWNER",
+          "bounds": {
+            "x": 24,
+            "y": 196.140625,
+            "width": 272,
+            "height": 25.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 32,
+            "width": 272,
+            "height": 25.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "650",
+            "lineHeight": "25.2px",
+            "letterSpacing": "1.68px",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px 0px 16px",
+            "width": "272px",
+            "maxWidth": "none",
+            "height": "25.1875px",
+            "minHeight": "0px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "H1",
+          "className": "",
+          "id": "auth-title",
+          "text": "Welcome back.",
+          "bounds": {
+            "x": 24,
+            "y": 237.328125,
+            "width": 272,
+            "height": 35
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 73.1875,
+            "width": 272,
+            "height": 35
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "650",
+            "lineHeight": "35px",
+            "letterSpacing": "-1.12px",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px 0px 12px",
+            "width": "272px",
+            "maxWidth": "none",
+            "height": "35px",
+            "minHeight": "0px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "P",
+          "className": "muted",
+          "id": "",
+          "text": "Sign in to view your project enquiries.",
+          "bounds": {
+            "x": 24,
+            "y": 284.328125,
+            "width": 272,
+            "height": 25.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 120.1875,
+            "width": 272,
+            "height": 25.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "25.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px 0px 16px",
+            "width": "272px",
+            "maxWidth": "none",
+            "height": "25.1875px",
+            "minHeight": "0px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "FORM",
+          "className": "form-stack",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 24,
+            "y": 337.515625,
+            "width": 272,
+            "height": 334.359375
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 173.375,
+            "width": 272,
+            "height": 334.359375
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "22.4px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "28px 0px 0px",
+            "width": "272px",
+            "maxWidth": "none",
+            "height": "334.359px",
+            "minHeight": "0px",
+            "gap": "20px"
+          }
+        },
+        {
+          "tag": "FIELDSET",
+          "className": "form-stack",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 24,
+            "y": 337.515625,
+            "width": 272,
+            "height": 272.765625
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 173.375,
+            "width": 272,
+            "height": 272.765625
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "22.4px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "272px",
+            "maxWidth": "none",
+            "height": "272.766px",
+            "minHeight": "auto",
+            "gap": "20px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "className": "field",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 24,
+            "y": 337.515625,
+            "width": 272,
+            "height": 73.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 173.375,
+            "width": 272,
+            "height": 73.1875
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "272px",
+            "maxWidth": "none",
+            "height": "73.1875px",
+            "minHeight": "auto",
+            "gap": "6px"
+          }
+        },
+        {
+          "tag": "LABEL",
+          "className": "",
+          "id": "",
+          "text": "Email address",
+          "bounds": {
+            "x": 24,
+            "y": 337.515625,
+            "width": 272,
+            "height": 19.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 173.375,
+            "width": 272,
+            "height": 19.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "272px",
+            "maxWidth": "none",
+            "height": "19.1875px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "INPUT",
+          "className": "",
+          "id": "email",
+          "text": "",
+          "bounds": {
+            "x": 24,
+            "y": 362.703125,
+            "width": 272,
+            "height": 48
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 198.5625,
+            "width": 272,
+            "height": 48
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "lineHeight": "25.6px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgb(250, 248, 244)",
+            "borderColor": "rgba(28, 26, 26, 0.32)",
+            "borderWidth": "1px",
+            "borderRadius": "2px",
+            "padding": "10px 12px",
+            "margin": "0px",
+            "width": "272px",
+            "maxWidth": "none",
+            "height": "48px",
+            "minHeight": "48px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "DIV",
+          "className": "field",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 24,
+            "y": 430.703125,
+            "width": 272,
+            "height": 73.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 266.5625,
+            "width": 272,
+            "height": 73.1875
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "272px",
+            "maxWidth": "none",
+            "height": "73.1875px",
+            "minHeight": "auto",
+            "gap": "6px"
+          }
+        },
+        {
+          "tag": "LABEL",
+          "className": "",
+          "id": "",
+          "text": "Password",
+          "bounds": {
+            "x": 24,
+            "y": 430.703125,
+            "width": 272,
+            "height": 19.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 266.5625,
+            "width": 272,
+            "height": 19.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "272px",
+            "maxWidth": "none",
+            "height": "19.1875px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "DIV",
+          "className": "password-field",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 24,
+            "y": 455.890625,
+            "width": 272,
+            "height": 48
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 291.75,
+            "width": 272,
+            "height": 48
+          },
+          "styles": {
+            "display": "block",
+            "position": "relative",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "272px",
+            "maxWidth": "none",
+            "height": "48px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "INPUT",
+          "className": "",
+          "id": "password",
+          "text": "",
+          "bounds": {
+            "x": 24,
+            "y": 455.890625,
+            "width": 272,
+            "height": 48
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 291.75,
+            "width": 272,
+            "height": 48
+          },
+          "styles": {
+            "display": "inline-block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "lineHeight": "25.6px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgb(250, 248, 244)",
+            "borderColor": "rgba(28, 26, 26, 0.32)",
+            "borderWidth": "1px",
+            "borderRadius": "2px",
+            "padding": "10px 64px 10px 12px",
+            "margin": "0px",
+            "width": "272px",
+            "maxWidth": "none",
+            "height": "48px",
+            "minHeight": "48px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "className": "",
+          "id": "",
+          "text": "Show",
+          "bounds": {
+            "x": 235,
+            "y": 456.890625,
+            "width": 60,
+            "height": 46
+          },
+          "relativeBounds": {
+            "x": 211,
+            "y": 292.75,
+            "width": 60,
+            "height": 46
+          },
+          "styles": {
+            "display": "flex",
+            "position": "absolute",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "4px 8px",
+            "margin": "0px",
+            "width": "60px",
+            "maxWidth": "none",
+            "height": "46px",
+            "minHeight": "46px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "A",
+          "className": "text-link",
+          "id": "",
+          "text": "Forgot your password?",
+          "bounds": {
+            "x": 24,
+            "y": 523.890625,
+            "width": 272,
+            "height": 22.390625
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 359.75,
+            "width": 272,
+            "height": 22.390625
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "22.4px",
+            "letterSpacing": "normal",
+            "color": "rgb(48, 60, 50)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(48, 60, 50)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "272px",
+            "maxWidth": "none",
+            "height": "22.3906px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "className": "button",
+          "id": "",
+          "text": "Sign in to your workspace",
+          "bounds": {
+            "x": 24,
+            "y": 566.28125,
+            "width": 272,
+            "height": 44
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 402.140625,
+            "width": 272,
+            "height": 44
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "lineHeight": "19.5px",
+            "letterSpacing": "normal",
+            "color": "rgb(250, 248, 244)",
+            "backgroundColor": "rgb(48, 60, 50)",
+            "borderColor": "rgb(48, 60, 50)",
+            "borderWidth": "1px",
+            "borderRadius": "2px",
+            "padding": "10px 16px",
+            "margin": "0px",
+            "width": "272px",
+            "maxWidth": "none",
+            "height": "44px",
+            "minHeight": "44px",
+            "gap": "10px"
+          }
+        },
+        {
+          "tag": "P",
+          "className": "muted",
+          "id": "",
+          "text": "Access is limited to approved VAVI team accounts.",
+          "bounds": {
+            "x": 24,
+            "y": 630.28125,
+            "width": 272,
+            "height": 41.59375
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 466.140625,
+            "width": 272,
+            "height": 41.59375
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "20.8px",
+            "letterSpacing": "normal",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "272px",
+            "maxWidth": "none",
+            "height": "41.5938px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        }
+      ],
+      "panel": {
+        "tag": "ASIDE",
+        "className": "auth-panel",
+        "id": "",
+        "text": null,
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 320,
+          "height": 24
+        },
+        "relativeBounds": {
+          "x": -24,
+          "y": -164.140625,
+          "width": 320,
+          "height": 24
+        },
+        "styles": {
+          "display": "flex",
+          "position": "relative",
+          "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(234, 228, 218)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(234, 228, 218)",
+          "borderWidth": "0px",
+          "borderRadius": "0px",
+          "padding": "24px 24px 0px",
+          "margin": "0px",
+          "width": "320px",
+          "maxWidth": "none",
+          "height": "24px",
+          "minHeight": "auto",
+          "gap": "normal"
+        }
+      },
+      "logo": null,
+      "image": {
+        "display": "none",
+        "objectFit": "cover",
+        "objectPosition": "50% 24%",
+        "width": 0,
+        "height": 0,
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "complete": false,
+        "currentSrc": ""
+      },
+      "submitVisible": true,
+      "imageRequests": []
+    },
+    "mobile-767": {
+      "url": "http://127.0.0.1:3001/login",
+      "viewport": {
+        "width": 767,
+        "height": 844
+      },
+      "scrollWidth": 767,
+      "authCardHTML": "<section class=\"auth-card\" aria-labelledby=\"auth-title\"><p class=\"eyebrow\">VAVI OWNER</p><h1 id=\"auth-title\">Welcome back.</h1><p class=\"muted\">Sign in to view your project enquiries.</p><form class=\"form-stack\" aria-busy=\"false\"><fieldset class=\"form-stack\"><div class=\"field\"><label for=\"email\">Email address</label><input id=\"email\" type=\"email\" autocomplete=\"username\" placeholder=\"you@company.com\" maxlength=\"254\" required=\"\" name=\"email\" style=\"\"></div><div class=\"field\"><label for=\"password\">Password</label><div class=\"password-field\"><input id=\"password\" type=\"password\" autocomplete=\"current-password\" required=\"\" maxlength=\"128\" name=\"password\" style=\"\"><button type=\"button\" aria-label=\"Show password\" aria-pressed=\"false\">Show</button></div></div><a class=\"text-link\" href=\"/forgot-password\">Forgot your password?</a><button class=\"button\" type=\"submit\">Sign in to your workspace</button></fieldset><p class=\"muted\">Access is limited to approved VAVI team accounts.</p></form></section>",
+      "card": {
+        "tag": "SECTION",
+        "className": "auth-card",
+        "id": "",
+        "text": null,
+        "bounds": {
+          "x": 173.5,
+          "y": 172.53125,
+          "width": 420,
+          "height": 526.9375
+        },
+        "relativeBounds": {
+          "x": 0,
+          "y": 0,
+          "width": 420,
+          "height": 526.9375
+        },
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(28, 26, 26)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(28, 26, 26)",
+          "borderWidth": "0px",
+          "borderRadius": "0px",
+          "padding": "36px 0px",
+          "margin": "144.531px 173.5px",
+          "width": "420px",
+          "maxWidth": "420px",
+          "height": "526.938px",
+          "minHeight": "auto",
+          "gap": "normal"
+        }
+      },
+      "descendants": [
+        {
+          "tag": "P",
+          "className": "eyebrow",
+          "id": "",
+          "text": "VAVI OWNER",
+          "bounds": {
+            "x": 173.5,
+            "y": 208.53125,
+            "width": 420,
+            "height": 25.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 36,
+            "width": 420,
+            "height": 25.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "650",
+            "lineHeight": "25.2px",
+            "letterSpacing": "1.68px",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px 0px 16px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "25.1875px",
+            "minHeight": "0px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "H1",
+          "className": "",
+          "id": "auth-title",
+          "text": "Welcome back.",
+          "bounds": {
+            "x": 173.5,
+            "y": 249.71875,
+            "width": 420,
+            "height": 35
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 77.1875,
+            "width": 420,
+            "height": 35
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "650",
+            "lineHeight": "35px",
+            "letterSpacing": "-1.12px",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px 0px 12px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "35px",
+            "minHeight": "0px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "P",
+          "className": "muted",
+          "id": "",
+          "text": "Sign in to view your project enquiries.",
+          "bounds": {
+            "x": 173.5,
+            "y": 296.71875,
+            "width": 420,
+            "height": 25.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 124.1875,
+            "width": 420,
+            "height": 25.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "25.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px 0px 16px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "25.1875px",
+            "minHeight": "0px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "FORM",
+          "className": "form-stack",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 173.5,
+            "y": 349.90625,
+            "width": 420,
+            "height": 313.5625
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 177.375,
+            "width": 420,
+            "height": 313.5625
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "22.4px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "28px 0px 0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "313.562px",
+            "minHeight": "0px",
+            "gap": "20px"
+          }
+        },
+        {
+          "tag": "FIELDSET",
+          "className": "form-stack",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 173.5,
+            "y": 349.90625,
+            "width": 420,
+            "height": 272.765625
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 177.375,
+            "width": 420,
+            "height": 272.765625
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "22.4px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "272.766px",
+            "minHeight": "auto",
+            "gap": "20px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "className": "field",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 173.5,
+            "y": 349.90625,
+            "width": 420,
+            "height": 73.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 177.375,
+            "width": 420,
+            "height": 73.1875
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "73.1875px",
+            "minHeight": "auto",
+            "gap": "6px"
+          }
+        },
+        {
+          "tag": "LABEL",
+          "className": "",
+          "id": "",
+          "text": "Email address",
+          "bounds": {
+            "x": 173.5,
+            "y": 349.90625,
+            "width": 420,
+            "height": 19.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 177.375,
+            "width": 420,
+            "height": 19.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "19.1875px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "INPUT",
+          "className": "",
+          "id": "email",
+          "text": "",
+          "bounds": {
+            "x": 173.5,
+            "y": 375.09375,
+            "width": 420,
+            "height": 48
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 202.5625,
+            "width": 420,
+            "height": 48
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "lineHeight": "25.6px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgb(250, 248, 244)",
+            "borderColor": "rgba(28, 26, 26, 0.32)",
+            "borderWidth": "1px",
+            "borderRadius": "2px",
+            "padding": "10px 12px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "48px",
+            "minHeight": "48px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "DIV",
+          "className": "field",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 173.5,
+            "y": 443.09375,
+            "width": 420,
+            "height": 73.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 270.5625,
+            "width": 420,
+            "height": 73.1875
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "73.1875px",
+            "minHeight": "auto",
+            "gap": "6px"
+          }
+        },
+        {
+          "tag": "LABEL",
+          "className": "",
+          "id": "",
+          "text": "Password",
+          "bounds": {
+            "x": 173.5,
+            "y": 443.09375,
+            "width": 420,
+            "height": 19.1875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 270.5625,
+            "width": 420,
+            "height": 19.1875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "19.1875px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "DIV",
+          "className": "password-field",
+          "id": "",
+          "text": null,
+          "bounds": {
+            "x": 173.5,
+            "y": 468.28125,
+            "width": 420,
+            "height": 48
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 295.75,
+            "width": 420,
+            "height": 48
+          },
+          "styles": {
+            "display": "block",
+            "position": "relative",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(28, 26, 26)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "48px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "INPUT",
+          "className": "",
+          "id": "password",
+          "text": "",
+          "bounds": {
+            "x": 173.5,
+            "y": 468.28125,
+            "width": 420,
+            "height": 48
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 295.75,
+            "width": 420,
+            "height": 48
+          },
+          "styles": {
+            "display": "inline-block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "lineHeight": "25.6px",
+            "letterSpacing": "normal",
+            "color": "rgb(28, 26, 26)",
+            "backgroundColor": "rgb(250, 248, 244)",
+            "borderColor": "rgba(28, 26, 26, 0.32)",
+            "borderWidth": "1px",
+            "borderRadius": "2px",
+            "padding": "10px 64px 10px 12px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "48px",
+            "minHeight": "48px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "className": "",
+          "id": "",
+          "text": "Show",
+          "bounds": {
+            "x": 532.5,
+            "y": 469.28125,
+            "width": 60,
+            "height": 46
+          },
+          "relativeBounds": {
+            "x": 359,
+            "y": 296.75,
+            "width": 60,
+            "height": 46
+          },
+          "styles": {
+            "display": "flex",
+            "position": "absolute",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "lineHeight": "19.2px",
+            "letterSpacing": "normal",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "4px 8px",
+            "margin": "0px",
+            "width": "60px",
+            "maxWidth": "none",
+            "height": "46px",
+            "minHeight": "46px",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "A",
+          "className": "text-link",
+          "id": "",
+          "text": "Forgot your password?",
+          "bounds": {
+            "x": 173.5,
+            "y": 536.28125,
+            "width": 420,
+            "height": 22.390625
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 363.75,
+            "width": 420,
+            "height": 22.390625
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "22.4px",
+            "letterSpacing": "normal",
+            "color": "rgb(48, 60, 50)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(48, 60, 50)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "22.3906px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "className": "button",
+          "id": "",
+          "text": "Sign in to your workspace",
+          "bounds": {
+            "x": 173.5,
+            "y": 578.671875,
+            "width": 420,
+            "height": 44
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 406.140625,
+            "width": 420,
+            "height": 44
+          },
+          "styles": {
+            "display": "flex",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "lineHeight": "19.5px",
+            "letterSpacing": "normal",
+            "color": "rgb(250, 248, 244)",
+            "backgroundColor": "rgb(48, 60, 50)",
+            "borderColor": "rgb(48, 60, 50)",
+            "borderWidth": "1px",
+            "borderRadius": "2px",
+            "padding": "10px 16px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "44px",
+            "minHeight": "44px",
+            "gap": "10px"
+          }
+        },
+        {
+          "tag": "P",
+          "className": "muted",
+          "id": "",
+          "text": "Access is limited to approved VAVI team accounts.",
+          "bounds": {
+            "x": 173.5,
+            "y": 642.671875,
+            "width": 420,
+            "height": 20.796875
+          },
+          "relativeBounds": {
+            "x": 0,
+            "y": 470.140625,
+            "width": 420,
+            "height": 20.796875
+          },
+          "styles": {
+            "display": "block",
+            "position": "static",
+            "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "20.8px",
+            "letterSpacing": "normal",
+            "color": "rgb(87, 83, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderColor": "rgb(87, 83, 77)",
+            "borderWidth": "0px",
+            "borderRadius": "0px",
+            "padding": "0px",
+            "margin": "0px",
+            "width": "420px",
+            "maxWidth": "none",
+            "height": "20.7969px",
+            "minHeight": "auto",
+            "gap": "normal"
+          }
+        }
+      ],
+      "panel": {
+        "tag": "ASIDE",
+        "className": "auth-panel",
+        "id": "",
+        "text": null,
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 767,
+          "height": 28
+        },
+        "relativeBounds": {
+          "x": -173.5,
+          "y": -172.53125,
+          "width": 767,
+          "height": 28
+        },
+        "styles": {
+          "display": "flex",
+          "position": "relative",
+          "fontFamily": "\"Manrope Variable\", Arial, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(234, 228, 218)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(234, 228, 218)",
+          "borderWidth": "0px",
+          "borderRadius": "0px",
+          "padding": "28px 28px 0px",
+          "margin": "0px",
+          "width": "767px",
+          "maxWidth": "none",
+          "height": "28px",
+          "minHeight": "auto",
+          "gap": "normal"
+        }
+      },
+      "logo": null,
+      "image": {
+        "display": "none",
+        "objectFit": "cover",
+        "objectPosition": "50% 24%",
+        "width": 0,
+        "height": 0,
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "complete": false,
+        "currentSrc": ""
+      },
+      "submitVisible": true,
+      "imageRequests": []
+    }
+  },
+  "errors": [],
+  "hashes": {
+    "src/components/LoginForm.tsx": "34bda577898c505d1bef8e1a36f968ee24f12805c89bae4c10ae0786333ee93e",
+    "src/components/PasswordField.tsx": "e0356763442397a6e4d2771482d12833002db10cb4c42facda3caf28914b966a",
+    "src/lib/auth.ts": "f03e42e2e100f569377122689e8c102d6ccecf4c21c63c2674646fa4e3ce9a06",
+    "src/lib/auth-client.ts": "bcfccf0cfe88d1f2d09d7f4327820d0721ad795492e5ea0428a58fdcb81c6761",
+    "src/lib/access.ts": "6047c1e001d52370d60165be3bbc5f560e9398d015005f68e5a40be550129b8e",
+    "src/proxy.ts": "9157c88b778f1ceecdacd949a504e06918828699c3ec940ee6cb61bf2b1c887f",
+    "src/app/api/auth/[...path]/route.ts": "8c6f33a903d7bb2dffee00ff69d605d35aa6ebc9d48aef5318992d9da2ca7377"
+  },
+  "baselineDesktopParity": true,
+  "baselineMobileFormParity": true
+}
